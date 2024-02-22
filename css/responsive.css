@@ -1,0 +1,2456 @@
+/* ==================================================================================
+================================== START ============================================
+==================================================================================== */
+
+@media (max-width: 575px) {
+    /* ===========================
+    ------common start -----
+    =========================== */
+
+    /* ===========================
+    ------common end -------
+    =========================== */
+
+    /* ===========================
+    ------NAV part start -----
+    =========================== */
+    .navbar-brand {
+        width: 91px;
+    }
+
+    .main_menu {
+        padding: 10px 0 !important;
+        background-color: #FD5F36;
+    }
+
+    rgb(253, 94, 54)rgb(252, 108, 72) .main_menu ul li a {
+        font-size: 15px;
+    }
+
+    .menu_button .login {
+        font-size: 19px;
+    }
+
+    .menu_button .Consultation {
+        font-size: 14px;
+        padding: 14px 24px;
+        border-radius: 8px;
+        margin-left: 15px;
+    }
+
+    /* ===========================
+    ------NAV part end -------
+    =========================== */
+
+    /* ===========================
+    ------Banner part start -----
+    =========================== */
+    #banner {
+        padding-top: 120px;
+    }
+
+    .banner_text h1 {
+        width: 100%;
+        font-size: 26px;
+        line-height: 40px;
+    }
+
+    .banner_text p {
+        width: 100%;
+        font-size: 14px;
+        line-height: 26px;
+        margin: 20px 0 15px;
+    }
+
+    .common_btn {
+        font-size: 12px;
+    }
+
+    .banner_signin p {
+        font-size: 13px;
+    }
+
+    .banner_signin img {
+        position: absolute;
+        bottom: 101%;
+        right: -14%;
+    }
+
+    .banner_text p a {
+        color: #FD5F36;
+    }
+
+    .banner_icontext p {
+        font-size: 19px;
+    }
+
+    .bannericontext {
+        align-items: start;
+        gap: 15px;
+    }
+
+    .banner_icontext p {
+        display: flex;
+    }
+
+    .bannericon_image {
+        padding: 65px 110px 90px;
+
+    }
+
+    .banner_img {
+        position: relative;
+        left: -8%;
+        top: 21.3%;
+        width: 270px;
+    }
+
+    .banner_video {
+        height: 130px;
+        width: 140px;
+        bottom: 0;
+        left: 0%;
+        border-top-right-radius: 16px;
+    }
+
+    /* ===========================
+    ------Banner part end -------
+    =========================== */
+
+
+    /* ===========================
+    ------About part start -----
+    =========================== */
+    #about {
+        padding: 60px 0;
+    }
+
+    .row>* {
+        width: 100%;
+    }
+
+    .about_text {
+        margin-top: 15px;
+    }
+
+    .about_text h2 {
+        font-size: 25px;
+        margin: 10px 0 15px;
+    }
+
+    .about_text p {
+        font-size: 14px;
+    }
+
+    /* ===========================
+    ------About part end -------
+    =========================== */
+
+    /* ===========================
+    ------Service part start -----
+    =========================== */
+    #service {
+        padding: 60px 0;
+    }
+
+    .service_head h2 {
+        width: 100%;
+        font-size: 35px;
+        margin: 8px 0 10px;
+    }
+
+    .service_heading {
+        display: block;
+    }
+
+    .service_detail p {
+        width: 100%;
+        font-size: 15px;
+    }
+
+    /* ===========================
+    ------Service part end -------
+    =========================== */
+
+    /* ===========================
+    ------Solution part start -----
+    =========================== */
+    #solution {
+        padding: 60px 0;
+    }
+
+    .solution_text {
+        width: 100%;
+    }
+
+    .solution_text h2 {
+        font-size: 27px;
+    }
+
+    .solution_text p {
+        font-size: 14px;
+        line-height: 26px;
+        margin: 10px 0 20px;
+    }
+
+    .solution_detail {
+        display: block;
+        margin-top: 30px;
+    }
+
+    .experiance h2 {
+        font-size: 33px;
+    }
+
+    .experiance .ex_dot {
+        width: 100px;
+    }
+
+    .experiance p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .experiance .dot {
+        height: 3px;
+        width: 128px;
+        top: 23px;
+        left: 136px;
+    }
+
+    .experiance {
+        padding: 5px 100px 5px 25px;
+        background-color: #52C5B6;
+        display: flex;
+        gap: 10px;
+        align-items: center;
+        position: relative;
+        width: fit-content;
+        position: absolute;
+        bottom: 8px;
+        left: 0px;
+    }
+
+    /* ===========================
+    ------Solution part end -------
+    =========================== */
+
+    /* ===========================
+    ------Our Team part start -----
+    =========================== */
+    #team {
+        padding-top: 60px;
+    }
+
+    .team_heading h2 {
+        width: 100%;
+        font-size: 39px;
+        line-height: 43px;
+    }
+
+    .team_main {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    /* ===========================
+    ------Our Team part end -------
+    =========================== */
+
+    /* ===========================
+    ------Frg part start -----
+    =========================== */
+    #faq {
+        padding: 1500px 0 60px;
+    }
+
+    .faq_detail .faq_text {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .faq_detail .faq_text h2 {
+        font-size: 26px;
+        line-height: 40px;
+    }
+
+    .raq_acc {
+        width: 100%;
+    }
+
+    /* ===========================
+    ------Frg part end -------
+    =========================== */
+
+    /* ===========================
+    ------Counter part start -----
+    =========================== */
+    .counter_main {
+        padding: 60px 0;
+    }
+
+    .counter_main .counter_text {
+        width: 100%;
+    }
+
+    .counter_main .counter_text h3 {
+        font-size: 26px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+
+    .common_btn {
+        margin-bottom: 20px;
+    }
+
+    .counter_body .counter_item h2 {
+        font-size: 30px;
+        line-height: 42px;
+        margin-bottom: 5px;
+    }
+
+    .counter_body .counter_item p {
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+    /* ===========================
+    ------Counter part end -------
+    =========================== */
+
+    /* ===========================
+    ------About US part start -----
+    =========================== */
+    .about_head {
+        width: 100%;
+    }
+
+    #about_us {
+        padding: 60px 0 60px;
+        margin-bottom: 60px;
+    }
+
+    .about_head h2 {
+        font-size: 28px;
+        line-height: 42px;
+        margin-bottom: 26px;
+    }
+
+    .about_one p {
+        font-size: 15px;
+        line-height: 26px;
+        margin-bottom: 16px;
+        width: 100%;
+    }
+
+    .aboutxt_img {
+        height: 54px;
+    }
+
+    /* ===========================
+    ------About US part end -------
+    =========================== */
+
+    /* ===========================
+    ------New blog part start -----
+    =========================== */
+    #latest_update {
+        padding-bottom: 30px;
+    }
+
+    .update_heading h2 {
+        font-size: 32px;
+        line-height: 39px;
+        margin: 8px 0 20px;
+    }
+
+    .update_item .update_img {
+        height: 200px;
+    }
+
+    .update_item h3 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+
+    .update_item p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .update_text {
+        margin: 20px 0;
+    }
+
+    /* ===========================
+    ------New blog part end -------
+    =========================== */
+    /* ===========================
+    ------Footer part start -----
+    =========================== */
+    #footer {
+        padding: 30px 0;
+    }
+
+    .first_footer {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        padding-right: 46px;
+        margin-bottom: 20px;
+    }
+
+    #footer .second_footer .text p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 23px;
+    }
+
+    .second_footer .text {
+        gap: 0px;
+    }
+
+    .second_footer .text span a {
+        font-size: 10px;
+        line-height: 26px;
+    }
+
+    /* ===========================
+    ------Footer part end -------
+    =========================== */
+    /* ===========================
+    ------common start -----
+    =========================== */
+    /* ===========================
+    ------common end -------
+    =========================== */
+    /* ===========================
+    ------common start -----
+    =========================== */
+    /* ===========================
+    ------common end -------
+    =========================== */
+}
+
+/* ==================================================================================
+================================== END ==============================================
+==================================================================================== */
+
+/* ==================================================================================
+================================== START ============================================
+==================================================================================== */
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+    /* ===========================
+    ------common start -----
+    =========================== */
+    .common_btn {
+        font-size: 12px;
+        margin-bottom: 3px;
+    }
+
+    /* ===========================
+    ------common end -------
+    =========================== */
+    /* ===========================
+    ------NAV part start -----
+    =========================== */
+    .navbar-brand {
+        width: 91px;
+    }
+
+    .main_menu {
+        padding: 10px 0 !important;
+        background-color: #FD5F36;
+    }
+
+    rgb(253, 94, 54)rgb(252, 108, 72) .main_menu ul li a {
+        font-size: 16px;
+    }
+
+    .menu_button .login {
+        font-size: 19px;
+    }
+
+    .menu_button .Consultation {
+        font-size: 14px;
+        padding: 14px 24px;
+        border-radius: 8px;
+        margin-left: 15px;
+    }
+
+    /* ===========================
+    ------NAV part end -------
+    =========================== */
+
+    /* ===========================
+    ------Banner part start -----
+    =========================== */
+    #banner {
+        padding-top: 120px;
+    }
+
+    .banner_text h1 {
+        width: 100%;
+        font-size: 28px;
+        line-height: 40px;
+    }
+
+    .banner_text p {
+        width: 100%;
+        font-size: 14px;
+        line-height: 26px;
+        margin: 10px 0;
+    }
+
+    .banner_signin p {
+        font-size: 13px;
+    }
+
+    .banner_signin img {
+        position: absolute;
+        bottom: 101%;
+        right: -14%;
+    }
+
+    .banner_text p a {
+        color: #FD5F36;
+    }
+
+    .banner_icontext p {
+        font-size: 19px;
+    }
+
+    .bannericontext {
+        align-items: start;
+        gap: 15px;
+    }
+
+    .banner_icontext p {
+        display: flex;
+    }
+
+    .bannericon_image {
+        padding: 34px 180px 20px
+    }
+
+    .banner_img {
+        position: relative;
+        left: -8%;
+        top: 21.3%;
+        width: 270px;
+    }
+
+    .banner_video {
+        height: 130px;
+        width: 140px;
+        bottom: 0;
+        left: 39.4%;
+        border-top-right-radius: 16px;
+    }
+
+    /* ===========================
+    ------Banner part end -------
+    =========================== */
+
+
+    /* ===========================
+    ------About part start -----
+    =========================== */
+    #about {
+        padding: 60px 0;
+    }
+
+    .row>* {
+        width: 100%;
+    }
+
+    .about_text {
+        margin-top: 15px;
+    }
+
+    .about_text h2 {
+        font-size: 25px;
+        margin: 10px 0 15px;
+    }
+
+    .about_text p {
+        font-size: 14px;
+    }
+
+    /* ===========================
+    ------About part end -------
+    =========================== */
+
+    /* ===========================
+    ------Service part start -----
+    =========================== */
+    #service {
+        padding: 60px 0;
+    }
+
+    .service_head h2 {
+        width: 100%;
+        font-size: 35px;
+        margin: 8px 0 10px;
+    }
+
+    .service_heading {
+        display: block;
+    }
+
+    .service_detail p {
+        width: 100%;
+        font-size: 15px;
+    }
+
+    .service_body .prev_arr {
+        left: 0px;
+    }
+
+    .service_body .next_arr {
+        right: 0px;
+    }
+
+    /* ===========================
+    ------Service part end -------
+    =========================== */
+
+    /* ===========================
+    ------Solution part start -----
+    =========================== */
+    #solution {
+        padding: 60px 0;
+    }
+
+    .solution_text {
+        width: 100%;
+    }
+
+    .solution_text h2 {
+        font-size: 27px;
+    }
+
+    .solution_text p {
+        font-size: 14px;
+        line-height: 26px;
+        margin: 10px 0 20px;
+    }
+
+    .solution_detail {
+        display: block;
+        margin-top: 30px;
+    }
+
+    .experiance h2 {
+        font-size: 33px;
+    }
+
+    .experiance .ex_dot {
+        width: 100px;
+    }
+
+    .experiance p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .experiance .dot {
+        height: 3px;
+        width: 128px;
+        top: 23px;
+        left: 136px;
+    }
+
+    .experiance {
+        padding: 5px 100px 5px 25px;
+        background-color: #52C5B6;
+        display: flex;
+        gap: 10px;
+        align-items: center;
+        position: relative;
+        width: fit-content;
+        position: absolute;
+        bottom: 8px;
+        left: 0px;
+    }
+
+    /* ===========================
+    ------Solution part end -------
+    =========================== */
+
+    /* ===========================
+    ------Our Team part start -----
+    =========================== */
+    #team {
+        padding-top: 60px;
+    }
+
+    .team_heading h2 {
+        width: 100%;
+        font-size: 39px;
+        line-height: 43px;
+    }
+
+    .team_main {
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+    }
+
+    .team_info {
+        width: 49%;
+    }
+    .team_detail {
+        padding: 25px 35px;
+    }
+    .team_detail h4 {
+        font-size: 14px;
+    }
+    .team_detail p {
+        font-size: 11px;
+    }
+    .fab {
+        right: 18px;
+        bottom: 10px;
+    }
+    /* ===========================
+    ------Our Team part end -------
+    =========================== */
+
+    /* ===========================
+    ------Frg part start -----
+    =========================== */
+    #faq {
+        padding: 450px 0 60px;
+    }
+
+    .faq_detail .faq_text {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .faq_detail .faq_text h2 {
+        font-size: 26px;
+        line-height: 40px;
+    }
+
+    .raq_acc {
+        width: 100%;
+    }
+
+    /* ===========================
+    ------Frg part end -------
+    =========================== */
+
+    /* ===========================
+    ------Counter part start -----
+    =========================== */
+    .counter_main {
+        padding: 60px 0;
+    }
+
+    .counter_main .counter_text {
+        width: 100%;
+    }
+
+    .counter_main .counter_text h3 {
+        font-size: 26px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+
+    .common_btn {
+        margin-bottom: 20px;
+    }
+
+    .counter_body .counter_item h2 {
+        font-size: 30px;
+        line-height: 42px;
+        margin-bottom: 5px;
+    }
+
+    .counter_body .counter_item p {
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+    /* ===========================
+    ------Counter part end -------
+    =========================== */
+
+    /* ===========================
+    ------About US part start -----
+    =========================== */
+    .about_head {
+        width: 100%;
+    }
+
+    #about_us {
+        padding: 60px 0 60px;
+        margin-bottom: 60px;
+    }
+
+    .about_head h2 {
+        font-size: 28px;
+        line-height: 42px;
+        margin-bottom: 26px;
+    }
+    .about_one {
+        padding: 10px;
+    }
+    .about_one p {
+        font-size: 15px;
+        line-height: 26px;
+        margin-bottom: 16px;
+        width: 100%;
+    }
+
+    .aboutxt_img {
+        height: 80px;
+    }
+    .about_onetext ul {
+        align-items: center;
+    }
+
+    .about_one p {
+        font-size: 10px;
+        line-height: 19px;
+        margin-bottom: 3px;
+    }
+    .about_slider .next_arr {
+        right: 0px;
+    }
+    .about_slider .prev_arr {
+        left: 0px;
+    }
+    /* ===========================
+    ------About US part end -------
+    =========================== */
+
+    /* ===========================
+    ------New blog part start -----
+    =========================== */
+    #latest_update {
+        padding-bottom: 30px;
+    }
+
+    .update_heading h2 {
+        font-size: 32px;
+        line-height: 39px;
+        margin: 8px 0 20px;
+    }
+
+    .update_item .update_img {
+        height: 300px;
+    }
+
+    .update_item h3 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+
+    .update_item p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .update_text {
+        margin: 20px 0;
+    }
+
+    /* ===========================
+    ------New blog part end -------
+    =========================== */
+    /* ===========================
+    ------Footer part start -----
+    =========================== */
+    #footer {
+        padding: 30px 0;
+    }
+
+    .first_footer {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        padding-right: 155px;
+        margin-bottom: 20px;
+    }
+
+    #footer .second_footer .text p {
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 23px;
+    }
+
+    .second_footer .text {
+        gap: 0px;
+    }
+
+    .second_footer .text span a {
+        font-size: 15px;
+        line-height: 26px;
+    }
+
+    /* ===========================
+    ------Footer part end -------
+    =========================== */
+    /* ===========================
+    ------common start -----
+    =========================== */
+    /* ===========================
+    ------common end -------
+    =========================== */
+}
+
+/* ==================================================================================
+================================== END ==============================================
+==================================================================================== */
+
+/* ==================================================================================
+================================== START ============================================
+==================================================================================== */
+
+@media (min-width: 768px) and (max-width: 991px) {
+    /* ===========================
+    ------common start -----
+    =========================== */
+    .common_btn {
+        font-size: 25px;
+        margin: 20px;
+    }
+
+    /* ===========================
+    ------common end -------
+    =========================== */
+    /* ===========================
+    ------NAV part start -----
+    =========================== */
+    .navbar-brand {
+        width: 150px;
+    }
+
+    .main_menu {
+        padding: 10px 0 !important;
+        background-color: #FD5F36;
+    }
+
+    rgb(253, 94, 54)rgb(252, 108, 72) .main_menu ul li a {
+        font-size: 15px;
+    }
+
+    .menu_button .login {
+        font-size: 35px;
+    }
+
+    .menu_button .Consultation {
+        font-size: 25px;
+        padding: 14px 24px;
+        border-radius: 8px;
+        margin-left: 15px;
+    }
+    .main_menu ul li a {
+        font-size: 26px;
+    }
+    /* ===========================
+    ------NAV part end -------
+    =========================== */
+
+    /* ===========================
+    ------Banner part start -----
+    =========================== */
+    #banner {
+        padding-top: 120px;
+    }
+
+    .banner_text h1 {
+        font-size: 35px;
+        line-height: 44px;
+        margin-top: 20px;
+    }
+
+    .banner_text p {
+        width: 100%;
+        font-size: 22px;
+        line-height: 26px;
+        margin: 10px 0;
+    }
+
+    .banner_signin p {
+        font-size: 25px;
+    }
+
+    .banner_signin img {
+        position: absolute;
+        bottom: 101%;
+        right: -14%;
+    }
+
+    .banner_text p a {
+        color: #FD5F36;
+    }
+
+    .banner_icontext p {
+        font-size: 19px;
+    }
+
+    .bannericontext {
+        align-items: start;
+        gap: 15px;
+    }
+
+    .banner_icontext p {
+        display: flex;
+    }
+
+    .bannericon_image {
+        padding: 34px 180px 20px
+    }
+
+    .banner_img {
+        position: relative;
+        left: -8%;
+        top: 21.3%;
+        width: 450px;
+    }
+
+    .banner_video {
+        height: 200px;
+        width: 223px;
+        left: 34%;
+    }
+    .animation_round {
+        width: 180px;
+        height: 180px;
+        bottom: 30px;
+        right: -89px;
+    }
+
+    /* ===========================
+    ------Banner part end -------
+    =========================== */
+
+
+    /* ===========================
+    ------About part start -----
+    =========================== */
+    #about {
+        padding: 60px 0;
+    }
+
+    .row>* {
+        width: 100%;
+    }
+
+    .about_text {
+        margin-top: 15px;
+    }
+
+    .about_text h2 {
+        font-size: 32px;
+        margin: 10px 0 15px;
+    }
+
+    .about_text p {
+        font-size: 22px;
+    }
+    .about_text h3 {
+        font-size: 44px;
+    }
+    /* ===========================
+    ------About part end -------
+    =========================== */
+
+    /* ===========================
+    ------Service part start -----
+    =========================== */
+    #service {
+        padding: 60px 0;
+    }
+
+    .service_head h2 {
+        width: 100%;
+        font-size: 50px;
+        margin: 8px 0 10px;
+    }
+
+    .service_heading {
+        display: block;
+    }
+
+    .service_detail p {
+        width: 100%;
+        font-size: 24px;
+    }
+
+    .service_body .prev_arr {
+        left: 0px;
+    }
+
+    .service_body .next_arr {
+        right: 0px;
+    }
+    .service_head h3 {
+        font-size: 36px;
+    }
+
+    /* ===========================
+    ------Service part end -------
+    =========================== */
+
+    /* ===========================
+    ------Solution part start -----
+    =========================== */
+    #solution {
+        padding: 60px 0;
+    }
+
+    .solution_text {
+        width: 100%;
+    }
+
+    .solution_text h2 {
+        font-size: 40px;
+    }
+
+    .solution_text p {
+        font-size: 22px;
+        line-height: 26px;
+        margin: 10px 0 20px;
+    }
+
+    .solution_detail {
+        display: block;
+        margin-top: 30px;
+    }
+
+    .experiance h2 {
+        font-size: 33px;
+    }
+
+    .experiance .ex_dot {
+        width: 100px;
+    }
+
+    .experiance p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .experiance .dot {
+        height: 3px;
+        width: 128px;
+        top: 23px;
+        left: 136px;
+    }
+
+    .experiance {
+        padding: 5px 100px 5px 25px;
+        background-color: #52C5B6;
+        display: flex;
+        gap: 10px;
+        align-items: center;
+        position: relative;
+        width: fit-content;
+        position: absolute;
+        bottom: 8px;
+        left: 0px;
+    }
+
+    /* ===========================
+    ------Solution part end -------
+    =========================== */
+
+    /* ===========================
+    ------Our Team part start -----
+    =========================== */
+    #team {
+        padding-top: 60px;
+    }
+
+    .team_heading h2 {
+        width: 100%;
+        font-size: 39px;
+        line-height: 43px;
+    }
+
+    .team_main {
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+    }
+
+    .team_info {
+        width: 49%;
+    }
+    .team_detail {
+        padding: 25px 35px;
+    }
+    .team_detail h4 {
+        font-size: 14px;
+    }
+    .team_detail p {
+        font-size: 11px;
+    }
+    .fab {
+        right: 18px;
+        bottom: 10px;
+    }
+    /* ===========================
+    ------Our Team part end -------
+    =========================== */
+
+    /* ===========================
+    ------Frg part start -----
+    =========================== */
+    #faq {
+        padding: 650px 0 60px;
+    }
+
+    .faq_detail .faq_text {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .faq_detail .faq_text h2 {
+        font-size: 26px;
+        line-height: 40px;
+    }
+
+    .raq_acc {
+        width: 100%;
+    }
+
+    /* ===========================
+    ------Frg part end -------
+    =========================== */
+
+    /* ===========================
+    ------Counter part start -----
+    =========================== */
+    .counter_main {
+        padding: 60px 0;
+    }
+
+    .counter_main .counter_text {
+        width: 100%;
+    }
+
+    .counter_main .counter_text h3 {
+        font-size: 26px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+
+    .common_btn {
+        margin-bottom: 20px;
+    }
+
+    .counter_body .counter_item h2 {
+        font-size: 50px;
+        line-height: 42px;
+        margin-bottom: 5px;
+    }
+
+    .counter_body .counter_item p {
+        font-size: 24px;
+        line-height: 20px;
+    }
+
+    /* ===========================
+    ------Counter part end -------
+    =========================== */
+
+    /* ===========================
+    ------About US part start -----
+    =========================== */
+    .about_head {
+        width: 100%;
+    }
+
+    #about_us {
+        padding: 60px 0 60px;
+        margin-bottom: 60px;
+    }
+
+    .about_head h2 {
+        font-size: 28px;
+        line-height: 42px;
+        margin-bottom: 26px;
+    }
+    .about_one {
+        padding: 10px;
+    }
+    .about_one p {
+        font-size: 15px;
+        line-height: 26px;
+        margin-bottom: 16px;
+        width: 100%;
+    }
+
+    .aboutxt_img {
+        height: 80px;
+    }
+    .about_onetext ul {
+        align-items: center;
+    }
+
+    .about_one p {
+        font-size: 10px;
+        line-height: 19px;
+        margin-bottom: 3px;
+    }
+    .about_slider .next_arr {
+        right: 0px;
+    }
+    .about_slider .prev_arr {
+        left: 0px;
+    }
+    /* ===========================
+    ------About US part end -------
+    =========================== */
+
+    /* ===========================
+    ------New blog part start -----
+    =========================== */
+    #latest_update {
+        padding-bottom: 30px;
+    }
+
+    .update_heading h2 {
+        font-size: 32px;
+        line-height: 39px;
+        margin: 8px 0 20px;
+    }
+
+    .update_item .update_img {
+        height: 300px;
+    }
+
+    .update_item h3 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+
+    .update_item p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .update_text {
+        margin: 20px 0;
+    }
+
+    /* ===========================
+    ------New blog part end -------
+    =========================== */
+    /* ===========================
+    ------Footer part start -----
+    =========================== */
+    #footer {
+        padding: 30px 0;
+    }
+
+    .first_footer {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        padding-right: 155px;
+        margin-bottom: 20px;
+    }
+
+    #footer .second_footer .text p {
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 23px;
+    }
+
+    .second_footer .text {
+        gap: 0px;
+    }
+
+    .second_footer .text span a {
+        font-size: 15px;
+        line-height: 26px;
+    }
+
+    /* ===========================
+    ------Footer part end -------
+    =========================== */
+}
+
+/* ==================================================================================
+================================== END ==============================================
+==================================================================================== */
+
+/* ==================================================================================
+================================== START ============================================
+==================================================================================== */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    /* ===========================
+    ------common start -----
+    =========================== */
+    .common_btn {
+        font-size: 25px;
+        margin: 20px;
+    }
+
+    /* ===========================
+    ------common end -------
+    =========================== */
+    /* ===========================
+    ------NAV part start -----
+    =========================== */
+    .navbar-brand {
+        width: 180px;
+    }
+
+    .main_menu {
+        padding: 10px 0 !important;
+    }
+
+    rgb(253, 94, 54)rgb(252, 108, 72) .main_menu ul li a {
+        font-size: 15px;
+    }
+
+    .menu_button .login {
+        font-size: 25px;
+    }
+
+    .menu_button .Consultation {
+        font-size: 15px;
+        padding: 14px 24px;
+        border-radius: 8px;
+        margin-left: 15px;
+    }
+    .main_menu ul li a {
+        font-size: 24px;
+    }
+    /* ===========================
+    ------NAV part end -------
+    =========================== */
+
+    /* ===========================
+    ------Banner part start -----
+    =========================== */
+    #banner {
+        padding-top: 120px;
+    }
+
+    .banner_text h1 {
+        font-size: 55px;
+        line-height: 62px;
+        margin-top: 40px;
+        width: 100%;
+    }
+
+    .banner_text p {
+        width: 100%;
+        font-size: 28px;
+        line-height: 39px;
+        margin: 15px 0;
+    }
+    .banner_signin p {
+        font-size: 25px;
+    }
+
+    .banner_signin img {
+        position: absolute;
+        bottom: 101%;
+        right: -7%;
+    }
+
+    .banner_icontext p {
+        font-size: 30px;
+        display: flex;
+    }
+    .banner_icontext ul li {
+        font-size: 20px
+    }
+    .bannericontext {
+        align-items: center;
+        gap: 15px;
+    }
+
+    .bannericon_image {
+        padding: 34px 220px 20px
+    }
+
+    .banner_img {
+        position: relative;
+        left: -8%;
+        top: 21.3%;
+        width: 580px;
+    }
+
+    .banner_video {
+        height: 220px;
+        width: 220px;
+        left: 41.6%;
+    }
+    .animation_round {
+        width: 180px;
+        height: 180px;
+        bottom: 30px;
+        right: -89px;
+    }
+    .banner_imgtwo {
+        width: 75px;
+    }
+    .banner_imgthree {
+        width: 75px;
+    }
+    .banner_imgfour {
+        width: 75px;
+    }
+    .banner_imgfive {
+        width: 75px;
+    }
+    /* ===========================
+    ------Banner part end -------
+    =========================== */
+
+
+    /* ===========================
+    ------About part start -----
+    =========================== */
+    #about {
+        padding: 100px 0;
+    }
+
+    .row>* {
+        width: 100%;
+    }
+.about_img{
+    width: 400px;
+}
+    .about_text {
+        margin-top: 15px;
+    }
+
+    .about_text h2 {
+        font-size: 32px;
+        margin: 10px 0 15px;
+    }
+
+    .about_text p {
+        font-size: 22px;
+    }
+    .about_text h3 {
+        font-size: 44px;
+    }
+    /* ===========================
+    ------About part end -------
+    =========================== */
+
+    /* ===========================
+    ------Service part start -----
+    =========================== */
+    #service {
+        padding: 60px 0;
+    }
+
+    .service_head h2 {
+        width: 100%;
+        font-size: 50px;
+        margin: 8px 0 10px;
+    }
+
+    .service_heading {
+        display: block;
+    }
+
+    .service_detail p {
+        width: 100%;
+        font-size: 24px;
+    }
+
+    .service_body .prev_arr {
+        left: 300px;
+    }
+
+    .service_body .next_arr {
+        right: 300px;
+    }
+    .service_head h3 {
+        font-size: 36px;
+    }
+
+    /* ===========================
+    ------Service part end -------
+    =========================== */
+
+    /* ===========================
+    ------Solution part start -----
+    =========================== */
+    #solution {
+        padding: 100px 0;
+    }
+
+    .solution_text {
+        width: 100%;
+    }
+
+    .solution_text h2 {
+        font-size: 40px;
+    }
+
+    .solution_text p {
+        font-size: 22px;
+        line-height: 26px;
+        margin: 10px 0 20px;
+    }
+    .detail_item {
+        width: 50%;
+    }
+    .detail_item h3 {
+        font-size: 33px;
+        line-height: 45px;
+    }
+    .detail_item p {
+        font-size: 19px;
+        line-height: 33px;
+    }
+    .solution_detail {
+        display: block;
+        margin-top: 30px;
+    }
+
+    .experiance h2 {
+        font-size: 70px;
+    }
+
+    .experiance .ex_dot {
+        width: 100px;
+    }
+
+    .experiance p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .experiance .dot {
+        height: 3px;
+        width: 128px;
+        top: 49px;
+        left: 198px;
+    }
+
+    .experiance {
+        padding: 5px 100px 5px 25px;
+        background-color: #52C5B6;
+        display: flex;
+        gap: 11px;
+        align-items: center;
+        position: relative;
+        width: fit-content;
+        position: absolute;
+        bottom: 1px;
+        left: 293px;
+    }
+
+    /* ===========================
+    ------Solution part end -------
+    =========================== */
+
+    /* ===========================
+    ------Our Team part start -----
+    =========================== */
+    #team {
+        padding-top: 100px;
+    }
+
+    .team_heading h2 {
+        width: 100%;
+        font-size: 39px;
+        line-height: 43px;
+    }
+
+    .team_main {
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+    }
+
+    .team_info {
+        width: 24%;
+    }
+    .team_detail {
+        padding: 15px 25px;
+        bottom: 0px;
+    }
+    .team_detail h4 {
+        font-size: 14px;
+    }
+    .team_detail p {
+        font-size: 11px;
+    }
+    .fab {
+        right: 9px;
+        bottom: 7px;
+    }
+    /* ===========================
+    ------Our Team part end -------
+    =========================== */
+
+    /* ===========================
+    ------Frg part start -----
+    =========================== */
+    #faq {
+        padding: 150px 0 60px;
+    }
+    /* .faq_img{
+        width: 50%;
+    } */
+
+    .faq_detail .faq_text {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .faq_detail .faq_text h2 {
+        font-size: 26px;
+        line-height: 40px;
+    }
+
+    .raq_acc {
+        width: 100%;
+    }
+
+    /* ===========================
+    ------Frg part end -------
+    =========================== */
+
+    /* ===========================
+    ------Counter part start -----
+    =========================== */
+    .counter_main {
+        padding: 60px 0;
+    }
+
+    .counter_main .counter_text {
+        width: 100%;
+    }
+
+    .counter_main .counter_text h3 {
+        font-size: 40px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+
+    .common_btn {
+        margin-bottom: 20px;
+    }
+
+    .counter_body .counter_item h2 {
+        font-size: 60px;
+        line-height: 42px;
+        margin-bottom: 5px;
+    }
+
+    .counter_body .counter_item p {
+        font-size: 32px;
+        line-height: 55px;
+    }
+
+    /* ===========================
+    ------Counter part end -------
+    =========================== */
+
+    /* ===========================
+    ------About US part start -----
+    =========================== */
+    .about_head {
+        width: 100%;
+    }
+
+    #about_us {
+        padding: 60px 0 60px;
+        margin-bottom: 60px;
+    }
+    .about_slider .next_arr {
+        right: 300px;
+    }
+    .about_slider .prev_arr {
+        left: 300px;
+    }
+    /* ===========================
+    ------About US part end -------
+    =========================== */
+
+    /* ===========================
+    ------New blog part start -----
+    =========================== */
+    #latest_update {
+        padding-bottom: 30px;
+    }
+
+    .update_heading h2 {
+        font-size: 32px;
+        line-height: 39px;
+        margin: 8px 0 20px;
+    }
+
+    .update_item .update_img {
+        height: 400px;
+    }
+
+    .update_item h3 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+
+    .update_item p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .update_text {
+        margin: 20px 0;
+    }
+
+    /* ===========================
+    ------New blog part end -------
+    =========================== */
+    /* ===========================
+    ------Footer part start -----
+    =========================== */
+    #footer {
+        padding: 30px 0;
+    }
+
+    .first_footer {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        padding-right: 155px;
+        margin-bottom: 20px;
+    }
+
+    #footer .second_footer .text p {
+        font-size: 31px;
+        font-weight: 400;
+        line-height: 58px;
+    }
+
+    .second_footer .text {
+        gap: 0px;
+    }
+
+    .second_footer .text span a {
+        font-size: 20px;
+        line-height: 48px;
+    }
+    #footer .third_footer p {
+        font-size: 29px;
+    }
+    #footer .third_footer p span {
+        font-size: 20px;
+    }
+    .foot_search {
+        padding: 10px 10px 10px 20px;
+    }
+    #footer p {
+        font-size: 22px;
+    }
+    /* ===========================
+    ------Footer part end -------
+    =========================== */
+}
+
+/* ==================================================================================
+================================== END ==============================================
+==================================================================================== */
+
+/* ==================================================================================
+================================== START ============================================
+==================================================================================== */
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+    /* ===========================
+    ------common start -----
+    =========================== */
+    .common_btn {
+        font-size: 25px;
+        margin: 20px;
+    }
+    /* ===========================
+    ------common end -------
+    =========================== */
+    /* ===========================
+    ------NAV part start -----
+    =========================== */
+    .navbar-brand {
+        width: 180px;
+    }
+
+    .main_menu {
+        padding: 30px 0 !important;
+    }
+    
+    .main_menu ul li a {
+        font-size: 26px;
+    }
+
+    .menu_button .login {
+        font-size: 25px;
+    }
+
+    .menu_button .Consultation {
+        font-size: 22px;
+        padding: 14px 24px;
+        border-radius: 8px;
+        margin-left: 15px;
+    }
+    .main_menu ul li a {
+        font-size: 24px;
+    }
+    /* ===========================
+    ------NAV part end -------
+    =========================== */
+
+    /* ===========================
+    ------Banner part start -----
+    =========================== */
+    #banner {
+        padding-top: 120px;
+    }
+
+    .banner_text h1 {
+        font-size: 60px;
+        line-height: 78px;
+        margin-top: 40px;
+        width: 100%;
+    }
+
+    .banner_text p {
+        width: 100%;
+        font-size: 28px;
+        line-height: 50px;
+        margin: 15px 0;
+    }
+    .banner_signin p {
+        font-size: 30px;
+    }
+
+    .banner_signin img {
+        position: absolute;
+        bottom: 101%;
+        right: -7%;
+    }
+
+    .banner_icontext p {
+        font-size: 30px;
+        display: flex;
+    }
+    .banner_icontext ul li {
+        font-size: 20px
+    }
+    .bannericontext {
+        align-items: center;
+        gap: 15px;
+    }
+
+    .bannericon_image {
+        padding: 34px 220px 20px
+    }
+
+    .banner_img {
+        position: relative;
+        left: -8%;
+        top: 21.3%;
+        width: 600px;
+    }
+
+    .banner_video {
+        height: 220px;
+        width: 220px;
+        left: 43.7%;
+    }
+    .animation_round {
+        width: 180px;
+        height: 180px;
+        bottom: 30px;
+        right: -89px;
+    }
+    .banner_imgtwo {
+        width: 75px;
+    }
+    .banner_imgthree {
+        width: 75px;
+    }
+    .banner_imgfour {
+        width: 75px;
+    }
+    .banner_imgfive {
+        width: 75px;
+    }
+    /* ===========================
+    ------Banner part end -------
+    =========================== */
+
+
+    /* ===========================
+    ------About part start -----
+    =========================== */
+    #about {
+        padding: 100px 0;
+    }
+
+    .row>* {
+        width: 100%;
+    }
+.about_img{
+    width: 600px;
+}
+    .about_text {
+        margin-top: 15px;
+    }
+
+    .about_text h2 {
+        font-size: 32px;
+        margin: 10px 0 15px;
+    }
+
+    .about_text p {
+        font-size: 22px;
+    }
+    .about_text h3 {
+        font-size: 44px;
+    }
+    /* ===========================
+    ------About part end -------
+    =========================== */
+
+    /* ===========================
+    ------Service part start -----
+    =========================== */
+    #service {
+        padding: 60px 0;
+    }
+
+    .service_head h2 {
+        width: 100%;
+        font-size: 50px;
+        margin: 8px 0 10px;
+    }
+
+    .service_heading {
+        display: block;
+    }
+
+    .service_detail p {
+        width: 100%;
+        font-size: 24px;
+    }
+
+    .service_body .prev_arr {
+        left: 300px;
+    }
+
+    .service_body .next_arr {
+        right: 300px;
+    }
+    .service_head h3 {
+        font-size: 36px;
+    }
+
+    /* ===========================
+    ------Service part end -------
+    =========================== */
+
+    /* ===========================
+    ------Solution part start -----
+    =========================== */
+    #solution {
+        padding: 100px 0;
+    }
+
+    .solution_text {
+        width: 100%;
+    }
+
+    .solution_text h2 {
+        font-size: 40px;
+    }
+
+    .solution_text p {
+        font-size: 22px;
+        line-height: 26px;
+        margin: 10px 0 20px;
+    }
+    .detail_item {
+        width: 50%;
+    }
+    .detail_item h3 {
+        font-size: 33px;
+        line-height: 45px;
+    }
+    .detail_item p {
+        font-size: 19px;
+        line-height: 33px;
+    }
+    .solution_detail {
+        display: block;
+        margin-top: 30px;
+    }
+
+    .experiance h2 {
+        font-size: 70px;
+    }
+
+    .experiance .ex_dot {
+        width: 100px;
+    }
+
+    .experiance p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .experiance .dot {
+        height: 3px;
+        width: 128px;
+        top: 49px;
+        left: 198px;
+    }
+
+    .experiance {
+        padding: 5px 100px 5px 25px;
+        background-color: #52C5B6;
+        display: flex;
+        gap: 11px;
+        align-items: center;
+        position: relative;
+        width: fit-content;
+        position: absolute;
+        bottom: 1px;
+        left: 293px;
+    }
+
+    /* ===========================
+    ------Solution part end -------
+    =========================== */
+
+    /* ===========================
+    ------Our Team part start -----
+    =========================== */
+    #team {
+        padding-top: 100px;
+    }
+
+    .team_heading h2 {
+        width: 100%;
+        font-size: 39px;
+        line-height: 43px;
+    }
+
+    .team_main {
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+    }
+
+    .team_info {
+        width: 24%;
+    }
+    .team_detail {
+        padding: 20px 30px;
+        bottom: 0px;
+    }
+    .team_detail h4 {
+        font-size: 14px;
+    }
+    .team_detail p {
+        font-size: 11px;
+    }
+    .fab {
+        right: 23px;
+        bottom: 13px;
+    }
+    /* ===========================
+    ------Our Team part end -------
+    =========================== */
+
+    /* ===========================
+    ------Frg part start -----
+    =========================== */
+    #faq {
+        padding: 150px 0 60px;
+    }
+    /* .faq_img{
+        width: 50%;
+    } */
+
+    .faq_detail .faq_text {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .faq_detail .faq_text h2 {
+        font-size: 26px;
+        line-height: 40px;
+    }
+
+    .raq_acc {
+        width: 100%;
+    }
+
+    /* ===========================
+    ------Frg part end -------
+    =========================== */
+
+    /* ===========================
+    ------Counter part start -----
+    =========================== */
+    .counter_main {
+        padding: 60px 0;
+    }
+
+    .counter_main .counter_text {
+        width: 100%;
+    }
+
+    .counter_main .counter_text h3 {
+        font-size: 40px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+
+    .common_btn {
+        margin-bottom: 20px;
+    }
+
+    .counter_body .counter_item h2 {
+        font-size: 60px;
+        line-height: 42px;
+        margin-bottom: 5px;
+    }
+
+    .counter_body .counter_item p {
+        font-size: 32px;
+        line-height: 55px;
+    }
+
+    /* ===========================
+    ------Counter part end -------
+    =========================== */
+
+    /* ===========================
+    ------About US part start -----
+    =========================== */
+    .about_head {
+        width: 100%;
+    }
+
+    #about_us {
+        padding: 60px 0 60px;
+        margin-bottom: 60px;
+    }
+    .about_slider .next_arr {
+        right: 300px;
+    }
+    .about_slider .prev_arr {
+        left: 300px;
+    }
+    /* ===========================
+    ------About US part end -------
+    =========================== */
+
+    /* ===========================
+    ------New blog part start -----
+    =========================== */
+    #latest_update {
+        padding-bottom: 30px;
+    }
+
+    .update_heading h2 {
+        font-size: 32px;
+        line-height: 39px;
+        margin: 8px 0 20px;
+    }
+    .update_item{
+        width: 80%;
+    }
+    .update_item .update_img {
+        height: 400px;
+    }
+
+    .update_item h3 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+
+    .update_item p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .update_text {
+        margin: 20px 0;
+    }
+
+    /* ===========================
+    ------New blog part end -------
+    =========================== */
+    /* ===========================
+    ------Footer part start -----
+    =========================== */
+    #footer {
+        padding: 30px 0;
+    }
+
+    .first_footer {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        padding-right: 745px;
+        margin-bottom: 30px;
+    }
+    #footer .first_footer p {
+        font-size: 31px;
+        line-height: 37px;
+        margin: 30px 0;
+    }
+    #footer .second_footer .text p {
+        font-size: 31px;
+        font-weight: 400;
+        line-height: 58px;
+    }
+
+    .second_footer .text {
+        gap: 0px;
+    }
+
+    .second_footer .text span a {
+        font-size: 20px;
+        line-height: 48px;
+    }
+    #footer .third_footer p {
+        font-size: 29px;
+    }
+    #footer .third_footer p span {
+        font-size: 20px;
+    }
+    .foot_search {
+        padding: 10px 10px 10px 20px;
+    }
+    #footer p {
+        font-size: 22px;
+    }
+}
+
+/* ==================================================================================
+================================== END ==============================================
+==================================================================================== */
+
+/* ==================================================================================
+================================== START ============================================
+==================================================================================== */
+
+@media (min-width: 1400px) {
+    /* ===========================
+    ------common start -----
+    =========================== */
+ 
+
+    /* ===========================
+    ------common end -------
+    =========================== */
+    /* ===========================
+    ------NAV part start -----
+    =========================== */
+  
+    /* ===========================
+    ------NAV part end -------
+    =========================== */
+
+    /* ===========================
+    ------Banner part start -----
+    =========================== */
+    
+    /* ===========================
+    ------Banner part end -------
+    =========================== */
+
+
+    /* ===========================
+    ------About part start -----
+    =========================== */
+    
+    /* ===========================
+    ------About part end -------
+    =========================== */
+
+    /* ===========================
+    ------Service part start -----
+    =========================== */
+    
+
+    /* ===========================
+    ------Service part end -------
+    =========================== */
+
+    /* ===========================
+    ------Solution part start -----
+    =========================== */
+    
+
+    /* ===========================
+    ------Solution part end -------
+    =========================== */
+
+    /* ===========================
+    ------Our Team part start -----
+    =========================== */
+    
+    /* ===========================
+    ------Our Team part end -------
+    =========================== */
+
+    /* ===========================
+    ------Frg part start -----
+    =========================== */
+  
+
+    /* ===========================
+    ------Frg part end -------
+    =========================== */
+
+    /* ===========================
+    ------Counter part start -----
+    =========================== */
+
+
+    /* ===========================
+    ------Counter part end -------
+    =========================== */
+
+    /* ===========================
+    ------About US part start -----
+    =========================== */
+
+    /* ===========================
+    ------About US part end -------
+    =========================== */
+
+    /* ===========================
+    ------New blog part start -----
+    =========================== */
+
+    /* ===========================
+    ------New blog part end -------
+    =========================== */
+    /* ===========================
+    ------Footer part start -----
+    =========================== */
+
+}
+
+/* ==================================================================================
+================================== END ==============================================
+==================================================================================== */
